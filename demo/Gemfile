@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
 
-gem 'sinatra'
+gem 'sinatra', '>= 2.2.0'
 gem 'fat_fingers'
 gem 'pony'
